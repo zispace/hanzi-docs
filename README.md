@@ -38,6 +38,7 @@
   - 臺灣版《中華語文知識庫》: <https://www.chinese-linguipedia.org>
 - 字统网/字統網: <https://zi.tools>
 - Chinese Etymology字源: <https://hanziyuan.net>
+- 国家标准全文公开系统: <https://openstd.samr.gov.cn/bzgk/gb/>
 
 </details>
 
