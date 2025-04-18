@@ -421,6 +421,7 @@
 - 香港中文大学cse系归档:
   - SuperCJK（中日韩汉字超大字符集）: <https://appsrv.cse.cuhk.edu.hk/~irg/supercjk.html> 【仅Version 14.0、 Version 10.2】
   - IICore（International Ideographs Core，国际表意文字核心）: <https://appsrv.cse.cuhk.edu.hk/~irg/irg/IICore/IICore.htm> 【II Core Version 2.2】
+- Ken Lunde-CJKV Information Processing: https://resources.oreilly.com/examples/9781565922242
 
 ### 出版印刷相关规范标准
 
