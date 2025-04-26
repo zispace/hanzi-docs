@@ -2,6 +2,12 @@
 
 常用汉字表（相关规范和资源等），包括中国两岸四地以及日韩越等汉字圈地区。
 
+> [!warning]
+> 
+> 由于本仓库日渐过大，已对本仓库重构，将非正式字表相关的汉字文献等转移到的
+> [:link: zispace/hanzi-docs-ext](https://github.com/zispace/hanzi-docs-ext)
+>
+
 ## 参考资料
 
 - <https://www.moe.gov.cn/jyb_sjzl/ziliao/A19/>
