@@ -1,0 +1,15 @@
+# macos
+.DS_Store
+
+# linux
+*~
+
+*.txt
+*.csv
+*.tsv
+*.json
+*.jsonl
+
+trash/
+todo/
+
