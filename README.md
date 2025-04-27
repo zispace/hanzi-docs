@@ -455,6 +455,7 @@
 
 其他参考资料：
   - 中文书刊排版相关标准和规范 [:link: Haixing-Hu/typesetting-standard](https://github.com/Haixing-Hu/typesetting-standard)
+  - 中文排版需求 (Requirements for Chinese Text Layout) <https://www.w3.org/TR/clreq/>
 
 </details>
 
