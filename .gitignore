@@ -6,7 +6,7 @@
 
 *.txt
 *.csv
-*.tsv
+# *.tsv
 *.json
 *.jsonl
 
