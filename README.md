@@ -400,11 +400,12 @@
 
 ### 出版印刷相关规范标准
 
-部分规范和日常语言文字的直接应用关系不大，暂时不纳入仓库。
+已有其他仓库做相关整理工作，本仓库按需仅收录部分。
+可参考《国家新闻出版署关于公布继续有效的规范性文件目录的公告》（2019年 第4号） [:link:](https://www.nppa.gov.cn/xxfb/tzgs/201911/t20191129_666186.html)，以及：
+- 中文书刊排版相关标准和规范 [:link: Haixing-Hu/typesetting-standard](https://github.com/Haixing-Hu/typesetting-standard)
+- 中文排版需求 (Requirements for Chinese Text Layout) <https://www.w3.org/TR/clreq/>
 
 <details>
-
-可参考《国家新闻出版署关于公布继续有效的规范性文件目录的公告》（2019年 第4号）
 
 - 国家标准
   - GB 11668-89《图书和其他出版物的书脊规则》
@@ -415,7 +416,7 @@
   - GB/T 3860-1995《文献叙词标引规则》
   - [x] GB/T 7713.2-2022《学术论文写作规则》
   - GB/T 7713.3-2009《科技报告编写规则》
-  - GB/T 7714-2015《信息与文献 参考文献著录规则》
+  - [x] GB/T 7714-2015《信息与文献 参考文献著录规则》
   - GB/T 9999-2001《中国标准连续出版物号》
   - GB/T 13417-2009《期刊目次表》
   - GB/T 16827-1997《中国标准刊号（ISSN部分条码）》
@@ -453,15 +454,12 @@
 - 其他规范
   - 综合性期刊文献引证技术规范（试行稿）【2007年北京“综合性人文社会科学学术期刊编排规范研讨会”】
 
-其他参考资料：
-  - 中文书刊排版相关标准和规范 [:link: Haixing-Hu/typesetting-standard](https://github.com/Haixing-Hu/typesetting-standard)
-  - 中文排版需求 (Requirements for Chinese Text Layout) <https://www.w3.org/TR/clreq/>
-
 </details>
 
 ### 点阵字/矢量字相关标准
 
-[:link: eisoch/ChineseStandards: issue](https://github.com/eisoch/ChineseStandards/issues/3)
+部分文件可参考 [:link: eisoch/ChineseStandards: issue](https://github.com/eisoch/ChineseStandards/issues/3)；
+或参考附带链接（部分文件太大，本仓库暂不收录）
 
 <details>
 
@@ -479,6 +477,7 @@
 
 - **15点阵**
   - SJ/T 11189-1998 信息技术 汉字编码字符集 基本集15点阵字型 GB/T 2312
+  - GB/T 22320-2025 信息技术 中文编码字符集 汉字15×16点阵字型 [:link:](https://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=748B8CBB237198FD571FDCC4C639BAAD)
 
 - **16点阵**
   - GB 5199-2001 信息技术 汉字编码字符集（基本集） 16点阵字型 GB/T 2312
@@ -527,6 +526,8 @@
   - GB/T 11459.2-1989 信息处理用汉字24×24点阵字模数据集 通信子集 GB/T 8565.2
   - GB/T 22322.1-2008 信息技术 中文编码字符集 汉字24点阵字型 第1部分：宋体 GB 18030
   - GB/T 22322.1-2019 信息技术 中文编码字符集 汉字24点阵字型 第1部分：宋体 GB 18030
+  - GB/T 22322.1-2025 信息技术 中文编码字符集 汉字24点阵字型 第1部分：宋体 [:link:](https://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=AA0477E80A9362C959631FB63C862FF8)
+
 
 - **28点阵**
   - WH/T 0505-1999 信息交换用汉字28×28点阵字模数据集 GB/T 2312
@@ -571,6 +572,7 @@
   - GB/T 19968.1-2019 信息技术 通用编码字符集（基本多文种平面） 汉字48点阵字型 第1部分：宋体 GB/T 13000
   - GB/T 22321.1-2008 信息技术 中文编码字符集 汉字48点阵字型 第1部分：宋体 GB 18030
   - GB/T 22321.1-2018 信息技术 中文编码字符集 汉字48点阵字型 第1部分：宋体 GB 18030
+  - GB/T 22321.1-2025 信息技术 中文编码字符集 汉字48点阵字型 第1部分：宋体 [:link:](https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=421B9135604C56A2EA1C4396A941CFB4)
 
 - **64点阵**
   - GB/T 14242-1993 信息交换用汉字64×64点阵黑体字模集及数据集 GB/T 2312
